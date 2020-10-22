@@ -1,7 +1,7 @@
 
 
 <div class="card mb-3">
-  <img src="https://lh3.googleusercontent.com/proxy/k8krTigNKlz_ir2i9sW_DcwOUcF_I0aoZG8UpR8nN0Pl-orYpiDmfvDSuDc0JZvNh_oZfKkTmS57E5tA_cmVbpLGKZGrPQkdUjzVkEKKQGwv5DPpOTEdkAQ3BQ6Cd-vli_p3KgCrKRfer1D-E1xDCg" class="card-img-top" alt="...">
+  <img src="img/index_logo.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">List of students</h5>
     <p class="card-text">You can find here all the information about students in the system</p>

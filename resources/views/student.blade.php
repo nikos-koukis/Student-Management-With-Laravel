@@ -35,7 +35,7 @@
                 <section class='col-md-5'>
 
                     <div class="card mb-3">
-                        <img src="https://www.aristotelio.edu.gr/web/wp-content/uploads/2019/10/education.jpg" class="card-img-top" alt="...">
+                        <img src="./img/logo.png" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Enter the information of the new student</h5>
                           <form action="{{ url('/store') }}" method="post">
@@ -88,7 +88,7 @@
                 <section class='col-md-5'>
 
                     <div class="card mb-3">
-                        <img src="https://www.aristotelio.edu.gr/web/wp-content/uploads/2019/10/education.jpg" class="card-img-top" alt="...">
+                        <img src="../img/create_list_logo.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Update information of students</h5>
                           <form action="{{ url('/update/'.$student->id) }}" method="post">
